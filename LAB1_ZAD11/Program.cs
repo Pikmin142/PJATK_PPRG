@@ -1,0 +1,26 @@
+﻿Console.WriteLine("Hello Adventurer");
+Console.WriteLine("Podaj dane swojej postaci");
+Console.WriteLine("Podaj imię postaci:");
+string imie = Console.ReadLine()!;
+Console.WriteLine("Podaj swoj poziom ");
+int poziom = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Podaj swoje zdowie ");
+int zdrowie = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Podaj swoją siłe ");
+int siła = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Podaj Range Poszukiwacza");
+char Ranga = char.Parse(Console.ReadLine()!);
+int Lacznamoc = zdrowie + siła;
+Console.WriteLine("\t+===============================+ ");
+Console.WriteLine("\t|         Karta Postaci         |\t ");
+Console.WriteLine("\t+===============================+ ");
+Console.WriteLine($"\t|Nazwa postaci: {imie}             | \t");
+Console.WriteLine($"\t|Poziom: {poziom}                     | \t");
+Console.WriteLine($"\t|Ranga Poszukiwacza: {Ranga}          | \t");
+Console.WriteLine("\t+===============================+ ");
+Console.WriteLine($"\t|HP: {zdrowie}                         |\t ");
+Console.WriteLine($"\t|Siła: {siła}                       |\t ");
+Console.WriteLine("\t+===============================+ ");
+Console.WriteLine($"\t|Łączna moc: {Lacznamoc}                 |\t ");
+Console.WriteLine("\t+===============================+ ");
+

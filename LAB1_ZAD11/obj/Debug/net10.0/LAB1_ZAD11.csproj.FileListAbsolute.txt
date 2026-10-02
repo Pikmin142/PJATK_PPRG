@@ -1,0 +1,14 @@
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\bin\Debug\net10.0\LAB1_ZAD11.exe
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\bin\Debug\net10.0\LAB1_ZAD11.deps.json
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\bin\Debug\net10.0\LAB1_ZAD11.runtimeconfig.json
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\bin\Debug\net10.0\LAB1_ZAD11.dll
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\bin\Debug\net10.0\LAB1_ZAD11.pdb
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\LAB1_ZAD11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\LAB1_ZAD11.AssemblyInfoInputs.cache
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\LAB1_ZAD11.AssemblyInfo.cs
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\LAB1_ZAD11.csproj.CoreCompileInputs.cache
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\LAB1_ZAD11.dll
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\refint\LAB1_ZAD11.dll
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\LAB1_ZAD11.pdb
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\LAB1_ZAD11.genruntimeconfig.cache
+C:\Users\s37413\RiderProjects\LAB1_ZAD11\LAB1_ZAD11\obj\Debug\net10.0\ref\LAB1_ZAD11.dll
